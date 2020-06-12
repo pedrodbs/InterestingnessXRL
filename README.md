@@ -1,7 +1,4 @@
 <br/>
-<br/>
-<br/>
-<br/>
 Project moved to: https://github.com/SRI-AIC/InterestingnessXRL
 <br/>
 <br/>
