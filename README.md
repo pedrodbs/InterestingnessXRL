@@ -1,5 +1,9 @@
 # Interestingness XRL
 
+
+Project moved to: https://github.com/SRI-AIC/InterestingnessXRL
+
+
 ![framework](framework.png)
 
 Interestingness XRL is a Python 3 library for eXplainable Reinforcement Learning (XRL) based on the concept of interestingness elements – these are elements of an agent’s history of interaction with its environment that might be relevant for understanding the agent’s aptitude, both its capabilities and limitations. The diagram above explains the workflow behind the framework. More details can be found in the accompanying [paper](https://arxiv.org/abs/1912.09007).
