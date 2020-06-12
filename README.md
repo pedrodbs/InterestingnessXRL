@@ -1,8 +1,10 @@
 # Interestingness XRL
 
-
-Project moved to: https://github.com/SRI-AIC/InterestingnessXRL
-
+<br/>
+<br/>
+**Project moved to:** https://github.com/SRI-AIC/InterestingnessXRL
+<br/>
+<br/>
 
 ![framework](framework.png)
 
